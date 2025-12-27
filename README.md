@@ -59,18 +59,5 @@ Interested in **Full-Stack Development**, **IoT**, and **Security projects**.
   </a>
 </p>
 
----
-## 📊 GitHub Stats
 
-<p align="center">
-    <a href="https://github.com/AhmedMagbool/-Smart-Greenhouse-Dashboard/blob/main/README.md" alt="Smart-Greenhouse-Dashboard"" target="_blank">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMagbool&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedMagbool&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
