@@ -60,15 +60,17 @@ Interested in **Full-Stack Development**, **IoT**, and **Security projects**.
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMagbool&show_icons=true&theme=tokyonight" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMagbool&layout=compact&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMagbool&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=AhmedMagbool&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMagbool&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmedMagbool&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
