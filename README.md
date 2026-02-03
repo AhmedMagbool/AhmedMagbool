@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Magbool</h1>
-<h3 align="center">CS Undergraduate | Full-Stack Developer | Focused on Innovative Tech Solutions</h3>
+<h3 align="center">IS Undergraduate | Full-Stack Developer | Focused on Innovative Tech Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedMagbool&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
