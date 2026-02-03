@@ -10,6 +10,15 @@
 </p>
 
 ---
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-magbool-0192001b1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:aalgeely@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ## 👨‍💻 About
 Motivated Computer Science student with hands-on experience in software development and problem-solving.  
@@ -49,15 +58,7 @@ Interested in **Full-Stack Development**, **IoT**, and **Security projects**.
 
 ---
 
-## 🤝 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-magbool-0192001b1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:aalgeely@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+
 
 
 
